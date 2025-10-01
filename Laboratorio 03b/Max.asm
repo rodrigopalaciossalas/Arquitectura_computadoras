@@ -1,5 +1,5 @@
 .data
-    arreglo:    .word 64, 25, 12, 22, 11, 25, 64, 5
+    arreglo:    .word 4, 14, 62, 32, 12, 23, 14, 4
     longitud:   .word 8
     msg1:       .asciiz "Arreglo original:\n"
     msg2:       .asciiz "Arreglo ordenado:\n"
